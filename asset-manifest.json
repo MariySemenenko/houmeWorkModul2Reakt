@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MariySemenenko.github.io/houmeWorkModul2Reakt/static/css/main.7acaea2f.css",
+    "main.js": "/MariySemenenko.github.io/houmeWorkModul2Reakt/static/js/main.07d3183d.js",
+    "index.html": "/MariySemenenko.github.io/houmeWorkModul2Reakt/index.html",
+    "main.7acaea2f.css.map": "/MariySemenenko.github.io/houmeWorkModul2Reakt/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/MariySemenenko.github.io/houmeWorkModul2Reakt/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
