@@ -1,16 +1,28 @@
-export const App = () => {
+import React from "react";
+import ContactUs from "./ContactUs/Contact"
+import Search from "./Search/Search";
+
+import products from '../data/products'
+
+
+export class App extends React.Component {
+
+  render() {
+
   return (
+    
     <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
+      
     >
-      React homework template
+      
+      <ContactUs />
+      <Search products={products}/>
+
     </div>
-  );
-};
+
+
+
+    
+  )
+}
+}
